@@ -1,0 +1,15 @@
+C:\Users\Amina\Source\Repos\Factory\Factory\bin\Debug\net7.0\Factory.exe
+C:\Users\Amina\Source\Repos\Factory\Factory\bin\Debug\net7.0\Factory.deps.json
+C:\Users\Amina\Source\Repos\Factory\Factory\bin\Debug\net7.0\Factory.runtimeconfig.json
+C:\Users\Amina\Source\Repos\Factory\Factory\bin\Debug\net7.0\Factory.dll
+C:\Users\Amina\Source\Repos\Factory\Factory\bin\Debug\net7.0\Factory.pdb
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.csproj.AssemblyReference.cache
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.AssemblyInfoInputs.cache
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.AssemblyInfo.cs
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.dll
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\refint\Factory.dll
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.pdb
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\Factory.genruntimeconfig.cache
+C:\Users\Amina\Source\Repos\Factory\Factory\obj\Debug\net7.0\ref\Factory.dll
